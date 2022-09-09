@@ -1,1 +1,2 @@
 sample file
+stash and stash pop changes for local to remote repo
