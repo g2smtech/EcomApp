@@ -10,6 +10,10 @@ class File1 {
 		int a,b;
 		int c=a+b;
 		System.out.println(c);
+		int m,n,o;
+		o=m-n;
+		System.out.println("subtract is :"+o);
+
 		int sub=subtract(3,5);
 	}
 	int subtract(int a, int b)
