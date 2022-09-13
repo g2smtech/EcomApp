@@ -6,5 +6,10 @@ class File1 {
 		int a,b;
 		int c=a+b;
 		System.out.println(c);
+		int sub=subtract(3,5);
+	}
+	int subtract(int a, int b)
+	{
+		return a-b;
 	}
 }
