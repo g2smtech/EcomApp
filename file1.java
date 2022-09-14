@@ -32,9 +32,9 @@ class File1 {
 	{
 		return a/b;
 	}
-	int sub(int a, int b){
+	int sub(int p, int q){
 		{
-			return a-b;
+			return p-q;
 			
 		}
 	}		
