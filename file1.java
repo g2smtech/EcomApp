@@ -28,4 +28,8 @@ class File1 {
        {
 	       return q*p;
        }
+	int div(int a, int b)
+	{
+		return a/b;
+	}
 }
