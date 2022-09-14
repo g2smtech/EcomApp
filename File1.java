@@ -2,13 +2,14 @@ class File1 {
 	public static void main(String args[])
 	{
 		System.out.println("file1 for merge changes");
-		System.out.println("merge conflicts");
+		System.out.println("add merge conflicts");
 		int a,b;
 		int c=a+b;
+		System.out.println("fix merge conflicts");
 		System.out.println(c);
 		int sub=subtract(3,5);
 		int sqrt = sqrt(4);
-		int power= power(2);
+		System.out.println("merge conflicts");
 	}
 	int sqrt(int a)
 	{
