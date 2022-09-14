@@ -7,7 +7,12 @@ class File1 {
 		int c=a+b;
 		System.out.println(c);
 		int sub=subtract(3,5);
-		int sqrt = sqrt (4);
+		int sqrt = sqrt(4);
+		int power= power(2);
+	}
+	int sqrt(int a)
+	{
+		return a/2;
 	}
 	int subtract(int a, int b)
 	{
