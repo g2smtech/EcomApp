@@ -9,6 +9,7 @@ class File1 {
 		System.out.println("multiple of two numbers"+z);
 		System.out.println("file1 for merge changes");
 		System.out.println("merge conflicts");
+		System.out.println("checking square root");
 		int a,b,p,q;
 		int c=a+b;
 		System.out.println(c);
