@@ -4,6 +4,7 @@ class File1 {
 		//single line comments
 		System.out.println("file1 for merge changes");
 		System.out.println("add merge conflicts");
+		
 		int a,b;
 		//comment the lines to validate merge conflicts
 		System.out.println("fix merge conflicts");
@@ -26,5 +27,9 @@ class File1 {
 	int subtract(int a, int b)
 	{
 		return a-b;
+	}
+	int mul(int a,int b)
+	{
+		return a*b;
 	}
 }
