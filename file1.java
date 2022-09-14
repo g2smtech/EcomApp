@@ -2,6 +2,8 @@ class File1 {
 	public static void main(String args[])
 	{
 		System.out.println("file1");
+		System.out.println("validating merge conflicts");
+		System.out.println(getpower(2));
 		int x,y,z
 		int z=x*y;
 		System.out.println("multiple of two numbers"+z);
@@ -24,18 +26,18 @@ class File1 {
        {
 	       return a+b;
        }
-       int mul(int a, int b)
-       {
-	       return a*b;
-       }
+      
 	int div(int p, int q)
 	{
 		return p/q;
 	}
-	int sub(int p, int q){
-		{
-			return p-q;
-			
-		}
-	}		
+	int sub(int a, int b)
+	{
+		
+		 return a-b;
+	}
+	  int mul(int a, int b, int p)
+       {
+	       return a+b+p;
+       }	
 }
