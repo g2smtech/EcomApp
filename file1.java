@@ -7,6 +7,7 @@ class File1 {
 		int c=a+b;
 		System.out.println(c);
 		int sub=subtract(3,5);
+		int sqrt = sqrt (4);
 	}
 	int subtract(int a, int b)
 	{
