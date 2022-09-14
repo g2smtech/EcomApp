@@ -24,9 +24,9 @@ class File1 {
        {
 	       return a+b;
        }
-       int mul(int p, int q)
+       int mul(int a, int b)
        {
-	       return p*q;
+	       return a*b;
        }
 	
 }
