@@ -12,7 +12,7 @@ class File1 {
 		System.out.println(c);
 		int m,n,o;
 		o=m-n;
-		System.out.println("subtract is :"+o);
+		System.out.println("minus is :"+o);
 
 		int sub=subtract(3,5);
 	}
@@ -20,4 +20,12 @@ class File1 {
 	{
 		return a-b;
 	}
+       int add(int a, int b)
+       {
+	       return a+b;
+       }
+       int mul(int a, int b)
+       {
+	       return a*b;
+       }
 }
