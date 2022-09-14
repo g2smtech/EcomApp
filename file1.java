@@ -24,18 +24,18 @@ class File1 {
        {
 	       return a+b;
        }
-       int mul(int a, int b)
-       {
-	       return a*b;
-       }
+      
 	int div(int p, int q)
 	{
 		return p/q;
 	}
-	int sub(int p, int q){
-		{
-			return p-q;
-			
-		}
-	}		
+	int sub(int a, int b)
+	{
+		
+		 return a-b;
+	}
+	  int mul(int a, int b, int p)
+       {
+	       return a+b+p;
+       }	
 }
