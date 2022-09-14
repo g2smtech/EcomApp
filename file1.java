@@ -28,9 +28,9 @@ class File1 {
        {
 	       return a*b;
        }
-	int div(int a, int b)
+	int div(int p, int q)
 	{
-		return a/b;
+		return p/q;
 	}
 	int sub(int p, int q){
 		{
