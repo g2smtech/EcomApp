@@ -4,7 +4,8 @@ class File1 {
 		//single line comments
 		System.out.println("file1 for merge changes");
 		System.out.println("add merge conflicts");
-		
+		//add merge conflicts 
+		System.out.println("merge conflicts simulate");
 		int a,b;
 		System.out.println("fix merge conflicts");
 		System.out.println("adding file1");
