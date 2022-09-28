@@ -12,12 +12,15 @@ class File1 {
 		System.out.println("checking square root");
 		int a,b,p,q;
 		int c=a+b;
+
+
 		System.out.println("add merge conflicts");
 		//add merge conflicts 
 		System.out.println("merge conflicts simulate");
 		int a,b;
 		System.out.println("fix merge conflicts");
 		System.out.println("adding file1");
+
 		System.out.println(c);
 		int m,n,o;
 		o=m-n;
