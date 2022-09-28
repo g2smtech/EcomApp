@@ -23,4 +23,10 @@ Class File2 {
   int add(int b, intc )
   {
     System.out.println(b+c);
+
+    System.out.println(b+c);
+    System.out.println("validate merge conflicts");
+    System.out.println("auto fix merge conflicts");
+    System.out.println("if not manually fix merge conflicts");
+  }
 }

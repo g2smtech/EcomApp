@@ -18,6 +18,12 @@ class File1 {
 		System.out.println("minus is :"+o);
 
 		int sub=subtract(3,5);
+		int sqrt = sqrt(4);
+		int power= power(2);
+	}
+	int sqrt(int a)
+	{
+		return a/2;
 	}
 	int subtract(int a, int b)
 	{
