@@ -13,6 +13,10 @@ Class File2 {
     System.out.println("auto fix merge conflicts");
     //Validating merge conflicts scenarios in same branch
     System.out.println("if not manually fix merge conflicts");
+    a= add(b,c)
     
   }
+  int add(int b, intc )
+  {
+    System.out.println(b+c);
 }
