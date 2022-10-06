@@ -1,1 +1,1 @@
-c.txt
+This is the file for c.txt to validate the code changes for vscode
